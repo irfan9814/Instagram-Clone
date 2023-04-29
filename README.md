@@ -97,17 +97,18 @@ Explain how to run the automated tests for this system.
 - Clicking on Netflix logo will redirect the page to the HomePage.
 
 ## 🚀 Deployment <a name = "deployment"></a>
-To deploy the website on live stream, we just need to run "npm start" on the terminal of vs code.
+To deploy the website on live stream, we just need to run "npm start" on the terminal of vs code and run the java application through Spring tool suite and MySQL through MySQL Workbench.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [TMDB](https://www.themoviedb.org/) - Database
+- [MySQL](https://www.mysql.com/) - Database
 - [ReactJS](https://legacy.reactjs.org/) - Web Framework/Library
 - [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Java](https://www.java.com/) - Back End
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@irfan9814](https://github.com/irfan9814) - Idea & Initial work
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Skill-Lync
-- Inspiration: CodwWithVishal
-- References: https://youtu.be/pEWZQF-iTU8
+- Inspiration: Code With Zosh
+- References: https://youtu.be/--QxzepM7Kw?list=PL7Oro2kvkIzJpEjx7PCaVBdZfxmZEbxy6
