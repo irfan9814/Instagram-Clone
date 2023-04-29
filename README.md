@@ -91,7 +91,7 @@ Explain how to run the automated tests for this system.
 
 
 ## 🎈 Usage <a name="usage"></a>
-- Clicking on Watch free for 30 days will redirect it to Netflix Show Page.
+- 
 - The tabs (Cancel at any time, Watch Anywhere, and Pick your price) are clickable and have more details about the plans available.
 - On Netflix page clicking on any show will play its Trailer if available.
 - Clicking on Netflix logo will redirect the page to the HomePage.
