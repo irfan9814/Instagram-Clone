@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=600px height=150px src="https://freepngimg.com/save/69662-instagram-media-brand-social-logo-photography/1200x627" alt="Project logo"></a>
+ <img width=600px height=250px src="https://freepngimg.com/save/69662-instagram-media-brand-social-logo-photography/1200x627" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Instagram Clone</h3>
