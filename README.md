@@ -113,6 +113,7 @@ To deploy the website on live stream, we just need to run "npm start" on the ter
 - [ReactJS](https://legacy.reactjs.org/) - Web Framework/Library
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - [Java](https://www.java.com/) - Back End
+- [JWT](https://jwt.io/) - Authentication and Authorization
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@irfan9814](https://github.com/irfan9814) - Idea & Initial work
