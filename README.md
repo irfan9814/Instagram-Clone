@@ -118,6 +118,7 @@ To deploy the website on live stream, we just need to run "npm start" on the ter
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@irfan9814](https://github.com/irfan9814) - Idea & Initial work
+- [Project Repository - Github](https://github.com/irfan9814/Instagram-Clone)
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Skill-Lync
