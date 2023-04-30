@@ -75,31 +75,35 @@ Explain how to run the automated tests for this system.
 - We also need to run the Java Application through Spring Tool Suite.
 - Database through MySQL Workbench.
 
-### Sign up page
+
 <p align="center">
   <a href="" rel="noopener">
     <img width=1400px height=600px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(175).png?raw=true" alt="Project demo">
     </a>
 </p>
 
-###Sign in Page
+
 <p align="center">
   <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(176).png?raw=true" alt="Project demo"></a>
 </p>
 
 
 <p align="center">
-  <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(89).png?raw=true" alt="Project demo"></a>
+  <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(177).png?raw=true" alt="Project demo"></a>
 </p>
 <p align="center">
-  <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(90).png?raw=true" alt="Project demo"></a></p>
+  <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(178).png?raw=true" alt="Project demo"></a></p>
+  
+  </p>
+<p align="center">
+  <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(180).png?raw=true" alt="Project demo"></a></p>
 
 
 ## 🎈 Usage <a name="usage"></a>
-- 
-- The tabs (Cancel at any time, Watch Anywhere, and Pick your price) are clickable and have more details about the plans available.
-- On Netflix page clicking on any show will play its Trailer if available.
-- Clicking on Netflix logo will redirect the page to the HomePage.
+- User first need to sign up in the Instagram Clone website.
+- Then it needs to sign in with the same user credentials
+- User can Update their profile photo, upload photoes.
+- Users can Search other users, liked their photoes, comment on their photoes etc.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 To deploy the website on live stream, we just need to run "npm start" on the terminal of vs code and run the java application through Spring tool suite and MySQL through MySQL Workbench.
