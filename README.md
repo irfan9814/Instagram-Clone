@@ -78,25 +78,25 @@ Explain how to run the automated tests for this system.
 
 <p align="center">
   <a href="" rel="noopener">
-    <img width=1400px height=600px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(175).png?raw=true" alt="Project demo">
+    <img width=1400px height=500px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(175).png?raw=true" alt="Project demo">
     </a>
 </p>
 
 
 <p align="center">
-  <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(176).png?raw=true" alt="Project demo"></a>
+  <a href="" rel="noopener"><img width=1400px height=500px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(176).png?raw=true" alt="Project demo"></a>
 </p>
 
 
 <p align="center">
-  <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(177).png?raw=true" alt="Project demo"></a>
+  <a href="" rel="noopener"><img width=1400px height=500px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(177).png?raw=true" alt="Project demo"></a>
 </p>
 <p align="center">
-  <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(178).png?raw=true" alt="Project demo"></a></p>
+  <a href="" rel="noopener"><img width=1400px height=500px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(178).png?raw=true" alt="Project demo"></a></p>
   
   </p>
 <p align="center">
-  <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(180).png?raw=true" alt="Project demo"></a></p>
+  <a href="" rel="noopener"><img width=1400px height=500px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(180).png?raw=true" alt="Project demo"></a></p>
 
 
 ## 🎈 Usage <a name="usage"></a>
