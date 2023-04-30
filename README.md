@@ -75,14 +75,19 @@ Explain how to run the automated tests for this system.
 - We also need to run the Java Application through Spring Tool Suite.
 - Database through MySQL Workbench.
 
+### Sign up page
 <p align="center">
   <a href="" rel="noopener">
-    <img width=1400px height=600px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(91).png?raw=true" alt="Project demo">
+    <img width=1400px height=600px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(175).png?raw=true" alt="Project demo">
     </a>
 </p>
+
+###Sign in Page
 <p align="center">
-  <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(88).png?raw=true" alt="Project demo"></a>
+  <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(176).png?raw=true" alt="Project demo"></a>
 </p>
+
+
 <p align="center">
   <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(89).png?raw=true" alt="Project demo"></a>
 </p>
